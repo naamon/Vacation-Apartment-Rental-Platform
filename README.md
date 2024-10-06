@@ -1,5 +1,11 @@
-# Vacation-Apartment-Rental-Platform
+# Vacation Apartment Rental Platform
 
-# Developed a full-fledged vacation apartment rental platform from backend to frontend.
-# Used Java Spring Boot for server-side and React for client-side development.
-# Managed H2 database and designed a user-friendly interface to enhance engagement.  
+This project is a comprehensive vacation apartment rental platform, developed from backend to frontend.
+
+## Features
+- Full-fledged vacation rental functionalities
+- Server-side implemented with **Java Spring Boot**
+- Client-side developed using **React**
+- Managed **H2 database**
+- Designed a user-friendly interface to enhance user engagement
+
